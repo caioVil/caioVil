@@ -56,7 +56,7 @@ Utilizo o GitHub para:
 ## 📫 Como me encontrar
 
 - 📷 Instagram: @caio.vil
-- 💼 LinkedIn: https://www.linkedin.com/in/caiovila%C3%A7a/- 📧 Email: *(opcional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/caiovila%C3%A7a/
 
 ---
 
