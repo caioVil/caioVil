@@ -35,12 +35,12 @@ Utilizo o GitHub para:
 
 ## 🔧 Tecnologias e ferramentas que utilizo diariamente
 
-- **Linguagens:** VBA, Python, SQL, C#
+- **Linguagens:** VBA, SQL, C#
 - **Banco de Dados:** SQL Server  
 - **Hardware:** Montagem e manutenção de computadores, Programação em Arduino (kit robótica), eletrônica básica e intermediária  
-- **Ferramentas:** Power BI, Git, GitHub, Word, PowerPoint, Excel Intermediário e Avançado (Funções e VBA), instalação de infraestrutura de rede
-- **Sistemas:** Windows (formatações), redes locais (LAN), instalação de programas necessários variados
-
+- **Ferramentas:** Power BI, Git, GitHub, Word, PowerPoint, Excel Intermediário e Avançado (Funções, formulas e VBA), instalação de infraestrutura de rede
+- **Sistemas:** Windows (formatações), redes locais (LAN e Think Client)
+- **Programas variados:** AutoCAD, Sketchup, CorelDRAW
 ---
 
 ## 📚 O que você vai encontrar neste GitHub
