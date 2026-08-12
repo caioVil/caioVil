@@ -1,63 +1,52 @@
-# 👋 Olá, eu sou o Prof. Caio Vilaça!
+# 👋 Olá, eu sou o Caio Vilaça!
 
-🎓 **Coordenador Pedagógico | Técnico em Eletrônica | Profissional de Informática e cursos profissionalizantes**  
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-👨‍🏫 Atuo a mais de 4 anos ensinando e desenvolvendo hobilidades que transformam vidas.
+📊 **Analista de Dados no IPSEMG (Governo de Minas Gerais)**
+💻 Apoio à tomada de decisão da alta gestão com base em dados
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Sou apaixondado por ensinar e traduzir conceitos complexos de forma didática e clara para ajudar novos profissionais a ingressarem no mercado de trabalho mais preparados.
+Sou apaixonado por transformar dados em decisões, unindo experiência prévia em ensino e comunicação para traduzir conceitos técnicos de forma clara para diferentes públicos.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um profissional apaixonado por **tecnologia, ensino e soluções práticas**.  
-Atuo com **informática**, **redes**, **manutenção de computadores**, **eletrônica** e **programação**, além de trabalhar diretamente com **educação profissionalizante**.
+Atuo como Analista de Dados no IPSEMG, dando suporte à tomada de decisão estratégica da alta gestão através de análise de dados, relatórios e dashboards.
+
+Antes disso, atuei por mais de 4 anos como Coordenador Pedagógico e professor de Informática e cursos profissionalizantes — experiência que fortaleceu minha capacidade de comunicar temas complexos de forma didática.
 
 Utilizo o GitHub para:
-- Armazenar projetos de estudo
-- Versionar códigos e exercícios
-- Compartilhar soluções técnicas
-- Desenvolver projetos educacionais e práticos
+- Versionar e compartilhar projetos de análise de dados
+- Armazenar scripts SQL e automações
+- Documentar estudos e soluções técnicas
 
 ---
 
 ## 🧠 Áreas de interesse
-
+- 📊 Análise de dados e Business Intelligence
 - 💾 Banco de Dados (SQL Server)
-- 🖥️ Manutenção e formatação de computadores
-- 🌐 Redes de computadores
-- 🤖 Automação (Arduino e CLP)
-- 📊 Power BI e análise de dados
 - 🐍 Programação em Python
+- 🤖 Automação de processos
 - 🧩 Lógica de programação
-
----
+- 🌐 Redes de computadores
 
 ## 🔧 Tecnologias e ferramentas que utilizo diariamente
+- **Linguagens:** SQL, Python, VBA, C#, M
+- **Banco de Dados:** SQL Server
+- **Ferramentas de BI:** Power BI
+- **Outras ferramentas:** Git, GitHub, Excel Avançado (Fórmulas e VBA), Word, PowerPoint, Sharepoint
 
-- **Linguagens:** VBA, SQL, C#
-- **Banco de Dados:** SQL Server  
-- **Hardware:** Montagem e manutenção de computadores, Programação em Arduino (kit robótica), eletrônica básica e intermediária  
-- **Ferramentas:** Power BI, Git, GitHub, Word, PowerPoint, Excel Intermediário e Avançado (Funções, formulas e VBA), instalação de infraestrutura de rede
-- **Sistemas:** Windows (formatações), redes locais (LAN e Think Client)
-- **Programas variados:** AutoCAD, Sketchup, CorelDRAW
----
+## 🎓 Experiência anterior
+- 👨‍🏫 Coordenador Pedagógico e professor de Informática e cursos profissionalizantes (+4 anos)
+- 🖥️ Manutenção e formatação de computadores, infraestrutura de redes
 
 ## 📚 O que você vai encontrar neste GitHub
-
-✔️ Exercícios de programação  
-✔️ Projetos educacionais  
-✔️ Scripts SQL  
-✔️ Estudos em automação e eletrônica  
-✔️ Materiais de apoio para cursos  
-
----
+- ✔️ Projetos de análise de dados
+- ✔️ Scripts SQL
+- ✔️ Estudos em automação e programação
+- ✔️ Materiais de apoio de cursos anteriores
 
 ## 📫 Como me encontrar
-
 - 📷 Instagram: @caio.vil
-- 💼 LinkedIn: https://www.linkedin.com/in/caiovila%C3%A7a/
+- 💼 LinkedIn: https://www.linkedin.com/in/caiovilaça/
 
----
-
-> _"A sorte acompanha os audazes."_ 🚀
+"A sorte acompanha os audazes." 🚀
